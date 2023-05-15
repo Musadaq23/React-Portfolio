@@ -6,27 +6,27 @@ const projects = [
         name: 'Text Editor',
         github: 'https://github.com/Musadaq23/PWA-Text-Editor',
         deploy: 'https://progressive-web-application19.herokuapp.com/',
-        assets: '../jate.PNG', 
+        src: '../jate.PNG', 
         srcAlt: 'PWA text editor',
       },
       {
         name: 'Movie Finder',
         github: 'https://github.com/taada33/Movie-Selector',
         deploy: 'https://taada33.github.io/Movie-Selector/',
-        assets: '../popcorn.png', 
+        src: '../popcorn.png', 
         srcAlt: 'Find movie trailers with reviews',
       },
       {
         name: 'Eats Match',
         github: 'https://github.com/acst52/EatsMatch',
         deploy: 'https://calm-brook-30132.herokuapp.com/',
-        assets: '../eatsmatch.png', 
+        src: '../eatsmatch.png', 
         srcAlt: 'look for best price on food',
       },
       {
         name: 'Social Network API',
         github: 'https://github.com/Musadaq23/Social-Network-API',
-        assets: '../network.png', 
+        src: '../network.png', 
         srcAlt: '',
       }
 ]
