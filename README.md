@@ -12,3 +12,4 @@ use 'npm i' to install packages and then 'npm run start' to start the applicatio
 
 navigation bar
 
+![Screenshot](public/react portfolio.PNG)
